@@ -26,3 +26,5 @@ We have audit streams and HA using RabbitMQ queues. On the Backend side we are u
 ## Architecture Overview
 
 ![overview](https://raw.githubusercontent.com/joseteodoro/payment-platform/master/docs/solution-architecture.png)
+
+made by tedster
